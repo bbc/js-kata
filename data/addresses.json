@@ -1,0 +1,134 @@
+[
+  {
+    "recipient": "Radio Manchester",
+    "addressLine1": "Quay House",
+    "addressLine2": "BBC MediaCity UK",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "Salford",
+    "region": "",
+    "postcode": "M50 2QH",
+    "country": "UK"
+  },
+  {
+    "recipient": "Bob Smith",
+    "addressLine1": "7 The Avenue",
+    "addressLine2": "",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "Guildford",
+    "region": "Surrey",
+    "postcode": "GU2 5YH",
+    "country": "United Kingdom"
+  },
+  {
+    "recipient": "Chris Russo",
+    "addressLine1": "VIA APPIA NUOVA 123/4",
+    "addressLine2": "",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "ROMA",
+    "region": "RM",
+    "country": "Italy",
+    "postcode": "00184"
+  },
+  {
+    "recipient": "Chris Niswandee",
+    "addressLine1": "SMALLSYS INC",
+    "addressLine2": "795 E DRAGRAM",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "TUCSON",
+    "region": "AZ",
+    "country": "USA",
+    "postcode": "85705"
+  },
+  {
+    "recipient": "Mr. CHAN Kwok-kwong",
+    "addressLine1": "Flat 25, 12/F, Acacia Building",
+    "addressLine2": "150 Kennedy Road",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "",
+    "region": "WAN CHAI",
+    "country": "HONG KONG",
+    "postcode": ""
+  },
+  {
+    "recipient": "Frau\nWilhemlina Waschbaer",
+    "addressLine1": "Hochbaumstrasse 123 A",
+    "addressLine2": "",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "",
+    "region": "Bern",
+    "country": "SWITZERLAND",
+    "postcode": "5678"
+  },
+  {
+    "recipient": "Madame Duval",
+    "addressLine1": "27 RUE PASTEUR",
+    "addressLine2": "",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "",
+    "region": "CABOURG",
+    "country": "FRANCE",
+    "postcode": "14390"
+  },
+  {
+    "recipient": "Herrn\nEberhard Wellhausen",
+    "addressLine1": "Wittekindshof",
+    "addressLine2": "Schulstrasse 4",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "",
+    "region": "Bad Oyenhausen",
+    "country": "GERMANY",
+    "postcode": "32547"
+  },
+  {
+    "recipient": "麻美  八木田",
+    "addressLine1": "東麻布ISビル4F",
+    "addressLine2": "東麻布1-8-1",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "港区",
+    "region": "東京都",
+    "country": "JAPAN",
+    "postcode": "106-0044"
+  },
+  {
+    "recipient": "Yagita Asami",
+    "addressLine1": "Higashi Azabu IS Bldg 4F ",
+    "addressLine2": "Higashi Azabu 1-8-1",
+    "addressLine3": "",
+    "addressLine4": "",
+    "locality": "Minato-ku",
+    "region": "Tokyo",
+    "country": "JAPAN",
+    "postcode": "106-0044"
+  },
+  {
+    "recipient": "Isabelle A Chambers",
+    "addressLine4": "",
+    "locality": "HALSINGER",
+    "region": "Exeter",
+    "country": "UK",
+    "postcode": "EX33 3FL",
+    "addressLine1": "60  Bury Rd",
+    "addressLine2": "",
+    "addressLine3": ""
+  },
+  {
+    "recipient": "Nildram Ltd",
+    "addressLine4": "",
+    "addressLine2": "Oxford Road",
+    "locality": "AYLESBURY",
+    "region": "BUCKINGHAMSHIRE",
+    "country": "UNITED KINGDOM",
+    "postcode": "HP19 3EQ",
+    "addressLine1": "Ardenham Court",
+    "addressLine3": ""
+  }
+]
