@@ -1,10 +1,10 @@
 # Shipping Address Kata
 
-Prints out shipping labels. Nice and simple
+JavaScript exercise to convert shipping addresses.
 
 ## Get set up
 
-`npm install`
+`npm ci`
 
 ### Run the application
 
